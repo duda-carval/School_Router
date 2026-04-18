@@ -3,3 +3,4 @@ The objective of this project is to develop a route planner that identifies the 
 
 - INDELING_BUURT.csv: all bike routes in Amsterdam
 - 02.-alle...csv: all primary schools in the Netherlands
+(you need to download them and upload everytime you run the script on Google Colab)
